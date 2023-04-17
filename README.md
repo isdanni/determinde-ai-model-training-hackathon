@@ -1,6 +1,8 @@
 
 # Determined AI Model Training Hackathon - Neural Style Transfer: from Warhol to Star Wars 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 In this project, we built a customized CNN model using Determined AI Platform that realizes image style transfer and created an Andy Warhol painting style Grogu(from Star Wars) profile picture.
 
 ![cover.png](images/cover.png)
