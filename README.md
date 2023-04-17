@@ -45,6 +45,13 @@ det --version
 (venv) user@pop-os:~/Documents/code/determined-ai$ det --version
 det 0.21.1
 ```
+
+If you don't want to create from stratch, use `/venv`:
+
+```shell
+pip3 install -r requirements.txt
+```
+
 #### (Option 2): Determined Docker
 
 ```shell
